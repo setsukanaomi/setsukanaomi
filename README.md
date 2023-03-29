@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=70&section=header"/>
 
 ## <p align="center">Hi, I'm Naomi, but you can call me Setsuka. 🌸</p>
 
@@ -33,4 +33,4 @@
  #### <p align="center">If I'm not coding, probably I'm gaming, so add me on Steam.<br>I'm into Fighting Games, currently obsessed with Guilty Gear: STRIVE.</p>
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=70&section=footer"/>
