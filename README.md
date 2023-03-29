@@ -1,7 +1,7 @@
-### Hi, you can call me Setsuka, or Naomi.
+## <p align="center">Hi, you can call me Setsuka, or Naomi.</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=setsukanaomi&show_icons=true&theme=synthwave">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsukanaomi&layout=compact&theme=synthwave">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=setsukanaomi&show_icons=true&theme=synthwave">
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsukanaomi&layout=compact&theme=synthwave">
+
