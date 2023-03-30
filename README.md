@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=70&section=header"/>
 
-## <p align="center">Hi, I'm Naomi, but you can call me Setsuka. 🌸</p>
+## <p align="center">Hi, I'm Naomi, but you can call me Setsuka.</p>
 
 <div align="center">
 <img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=setsukanaomi&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
