@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
  
- #### <p align="center">If I'm not coding, probably I'm gaming, so add me on Steam.<br>I'm into Fighting Games, currently obsessed with Street Fighter 6.</p>
+ #### <p align="center">If I'm not coding, probably I'm gaming, so add me on Steam.<br>I'm into Fighting Games, currently obsessed with Divinity: Original Sin 2.</p>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=90&section=footer"/>
